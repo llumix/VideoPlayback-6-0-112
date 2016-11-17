@@ -21,6 +21,7 @@ import android.widget.RelativeLayout;
 
 import com.vuforia.samples.VideoPlayback.R;
 
+//esta actividad es para la pantalla de inicio de vuforia
 
 public class ActivitySplashScreen extends Activity
 {
