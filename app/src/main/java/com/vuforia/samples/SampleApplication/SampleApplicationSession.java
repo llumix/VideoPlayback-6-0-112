@@ -34,7 +34,7 @@ import com.vuforia.Vuforia;
 import com.vuforia.Vuforia.UpdateCallbackInterface;
 import com.vuforia.samples.VideoPlayback.R;
 
-
+//esta clase es para ingresar el codigo icencia de vuforia
 public class SampleApplicationSession implements UpdateCallbackInterface
 {
     
