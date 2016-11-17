@@ -9,11 +9,6 @@ countries.
 
 package com.vuforia.samples.VideoPlayback.ui.ActivityList;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
@@ -30,7 +25,12 @@ import android.widget.TextView;
 
 import com.vuforia.samples.VideoPlayback.R;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 
+//esta es la pantalla del menu principal
 public class AboutScreen extends Activity implements OnClickListener
 {
     private static final String LOGTAG = "AboutScreen";
