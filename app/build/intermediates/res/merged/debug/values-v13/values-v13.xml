@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/proyectosAndroid/DEVELOPMENT_ROOT/Android/vuforia-sdk-android-6-0-112/samples/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/src/main/res/values-v13/styles.xml -->
+    <eat-comment/>
+    <style name="SampleAppsTheme" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
