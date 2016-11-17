@@ -9,6 +9,7 @@ countries.
 
 package com.vuforia.samples.VideoPlayback.ui.SampleAppMenu;
 /*Soy el nuevo integrante*/
+//ya simon pollo
 import android.content.Context;
 import android.graphics.Canvas;
 import android.util.AttributeSet;
