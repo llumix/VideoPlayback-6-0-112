@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-
+//este es la linea para la direccion de la libreria vuforia
 def VUFORIA_SDK_DIR = '../../../..'
 def NATIVE_LIB_DIR = 'build/lib'
 def JAR_DIR = 'build/java/vuforia'
